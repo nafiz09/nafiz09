@@ -27,13 +27,18 @@
 ### Frameworks and Tools:
 `Django` `Django REST Framework` `SQL` `Oracle Database` `Sqlite` `JavaFx` 
 <br />
+<br />
 `Pandas` `Numpy` `Seaborn` `Matplotlib`
+<br />
 <br />
 `Atmega32 Microcontroller interfacing` `Arduino`
 <br />
+<br />
 `Git` `GitHub` `Linux` `Windows`
 <br />
+<br />
 `PyCharm` `CLion` `IntelliJ IDEA` `WebStorm` `Netbeans` `Visual Studio` `Atmel Studio` `VS Code` `Atom`
+<br />
 <br />
 `LaTex` `Figma`
 <br />
