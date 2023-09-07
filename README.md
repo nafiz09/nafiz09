@@ -12,7 +12,7 @@ I'm a Computer Science graduate from **BUET**, currently working as a **ML engin
   
 - Fun Fact : I love cricket :tennis: and music :musical_note:. But have zero skill in these fields. I like travelling, explored almost every tourist and travelling places of Bangladesh.
 
-- Reach me via mail **nafizislam09@gmail.com** for official purposes. Any thought you want to share, you can always ping me in messenger [***messenger***](https://m.me/nafiz.islam.792)
+- Reach me via mail **nafizislam09@gmail.com** for official purposes. Any thought you want to share, you can always ping me in [***messenger***](https://m.me/nafiz.islam.792)
 
 
 ## 🔗 Connect with me:
