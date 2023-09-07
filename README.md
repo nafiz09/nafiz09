@@ -2,14 +2,17 @@
 
 
 ## 🚀 About Me
-**I am currently a final year student pursuing undergrad degree in CS. I love to learn new things and apply them to real world projects. I am planning to start my career as a software engineer soon.**
+I'm a Computer Science graduate from **BUET**, currently working as a **ML engineer at SSCL**
 
+- I'm working on **Computer Vision, Document understanding models**
+  
+- I’m currently learning **Machine learning, Deep learning, NLP, Computer Vision, Tensorflow, Pytorch**
+  
+- You can reach out to me for work opportunities if you think I am fit for a role (preferably Software Engineering/ ML Engineering roles).
+  
+- Fun Fact : I love cricket :tennis: and music :musical_note:. But have zero skill in these fields. I like travelling, explored almost every tourist and travelling places of Bangladesh.
 
-- I’m currently learning **Machine learning, Deep learning, NLP, Computer Vision, Tensorflow, OpenCV** as my undergrad thesis is based on these.
-
-- I will be soon looking for **Software engineering** or **Machine learning engineering** opportunities.
-
-- Reach me via mail **nafizislam09@gmail.com** for official purposes.
+- Reach me via mail **nafizislam09@gmail.com** for official purposes. Any thought you want to share, you can always ping me in messenger [***messenger***](https://m.me/nafiz.islam.792)
 
 
 ## 🔗 Connect with me:
